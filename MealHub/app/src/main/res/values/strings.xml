@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Meal Hub</string>
+    <string name="Retrieve">Retrieve</string>
+    <string name="Save">Save</string>
+</resources>
